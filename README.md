@@ -1,7 +1,14 @@
-### Hi there 👋
+
+
+
+
+<p align="center">
+  <img align="center" src="https://i.imgur.com/mV7GFni.gif"> 
+</p>
 
 <!--
 **amandayehh/amandayehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
